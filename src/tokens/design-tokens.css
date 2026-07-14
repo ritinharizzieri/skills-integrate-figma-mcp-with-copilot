@@ -1,0 +1,34 @@
+:root {
+  /* Backgrounds */
+  --sds-color-background-default-default: #ffffff;
+  --sds-color-background-default-secondary: #f5f5f5;
+  --sds-color-background-brand-default: #2c2c2c;
+
+  /* Text */
+  --sds-color-text-default-default: #1e1e1e;
+  --sds-color-text-default-secondary: #757575;
+
+  /* Borders */
+  --sds-color-border-default-default: #d9d9d9;
+  --sds-color-border-brand-default: #2c2c2c;
+
+  /* Palette (from Figma) */
+  --sds-color-cyan: #00B6FF;
+  --sds-color-kelly-green: #24CB71;
+  --sds-color-coral: #FF7676;
+  --sds-color-hot-red: #FF3737;
+  --sds-color-purple: #874FFF;
+  --sds-color-blue: #4D49FC;
+  --sds-color-white: #FFFFFF;
+  --sds-color-black: #000000;
+
+  /* Legacy aliases (kept for compatibility) */
+  --Cyan: var(--sds-color-cyan);
+  --Kelly\ Green: var(--sds-color-kelly-green);
+  --Coral: var(--sds-color-coral);
+  --Hot\ Red: var(--sds-color-hot-red);
+  --Purple: var(--sds-color-purple);
+  --W: var(--sds-color-white);
+  --Blue: var(--sds-color-blue);
+  --K: var(--sds-color-black);
+}
